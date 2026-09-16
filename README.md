@@ -68,16 +68,6 @@ All source shared from this profile is public for viewing only. See each reposit
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obitouchiha002&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 Building at Grivaa Capital and shipping personal products under Tech By Vansh.
