@@ -72,8 +72,6 @@ All source shared from this profile is public for viewing only. See each reposit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obitouchiha002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obitouchiha002&theme=tokyonight&hide_border=true)
 
 </div>
